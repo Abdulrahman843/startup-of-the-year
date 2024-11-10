@@ -4,7 +4,7 @@ A simple, visually appealing landing page designed for a startup event. Built wi
 
 ## Project Demo
 
-![Landing Page Screenshot](Header.jpg)
+![Landing Page Screenshot](header.jpg)
 
 ## Features
 
